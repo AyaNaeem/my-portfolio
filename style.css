@@ -92,7 +92,7 @@ section {
 #hero {
     display: flex;
     align-items: center;
-    background-image: url(../assesst/programming-background-with-html.jpg);
+    background-image: url(../assets/programming-background-with-html.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
